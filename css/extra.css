@@ -12,7 +12,7 @@ h3 {margin-top: 5rem;}
 }
 
 .gssi_logo {
-  width:250px; 
+  width:350px; 
   border: 1px solid black; 
   padding: 2px; 
   float: right; 
@@ -21,4 +21,10 @@ h3 {margin-top: 5rem;}
 
 .md-toc-h1 {
   display: none;
+}
+
+date {
+  color:gray;
+  font-style: italic;
+  display: block;
 }
