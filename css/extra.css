@@ -11,6 +11,14 @@ h3 {margin-top: 5rem;}
   margin-top: 10px;
 }
 
+.gssi_logo {
+  width:250px; 
+  border: 1px solid black; 
+  padding: 2px; 
+  float: right; 
+  margin-top: 10px;
+}
+
 .md-toc-h1 {
   display: none;
 }
