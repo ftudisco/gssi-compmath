@@ -1,7 +1,7 @@
 # Seminar 
 
 
-We organize a seminar in Computational Mathematics and Data Science. The seminar takes place twice a month. Below is the list of past and future seminar talks.
+We organize a seminar in **Numerical Analysis, Mathematics of Computation and Data Science.** The seminar takes place twice a month. Below is the list of past and future seminar talks.
 
  
 
